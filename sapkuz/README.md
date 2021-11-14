@@ -1,3 +1,3 @@
-# Sapphire Finance
+# Kuzo Finance
 
-This project contains the main features of the Sapphire Finance application.
+This project contains the main features of the Kuzo Finance application.
